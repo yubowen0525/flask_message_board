@@ -1,0 +1,20 @@
+bootstrap-flask
+click
+flask-moment
+flask-sqlalchemy
+flask-wtf
+flask
+itsdangerous
+jinja2
+markupsafe
+python-dotenv
+sqlalchemy
+werkzeug
+wtforms
+# dev
+faker
+pathtools
+python-dateutil
+six
+text-unidecode
+watchdog
